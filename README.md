@@ -31,4 +31,4 @@ We are building a crypto application that will allow users to track crypto coin 
 - Get price data by id and days: `GET /prices/trend/:id?days=` - get price data by id for a period of days
 - Create price: `POST /prices` - add price data (require authentication and authorization)
 - Update price: `PUT /prices/:id` - update price data (require authentication and authorization)
-- Delete price: `DELETE /prices/:id` - delete price data (require authentication and authorization)# backend
+- Delete price: `DELETE /prices/:id` - delete price data (require authentication and authorization)
