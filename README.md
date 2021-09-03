@@ -27,7 +27,7 @@ We are building a crypto application that will allow users to track crypto coin 
 
 #### prices:
 - Get price data: `GET /prices`
-- Get price data by id: `GET /prices/:id/
+- Get price data by id: `GET /prices/:id/`
 - Get price data by id and days: `GET /prices/trend/:id?days=`
 - Create price: `POST /prices` (require authentication and authorization)
 - Update price: `PUT /prices/:id` (require authentication and authorization)
