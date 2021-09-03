@@ -4,7 +4,7 @@ We are building a crypto application that will allow users to track crypto coin 
 
 ### Here are the routes provided:
 
-### users:
+#### users:
 - Signup: `POST /login/signup`
 - Login: `POST /login`
 - Change password: `POST /login/password`(require authentication) 
